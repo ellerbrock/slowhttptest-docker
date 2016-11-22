@@ -7,7 +7,7 @@
 - Docker Hub: [frapsoft/slowhttptest](https://hub.docker.com/r/frapsoft/slowhttptest/)
 - Repository: <https://github.com/ellerbrock/slowhttptest-docker>
 - Dockerfile: <https://github.com/ellerbrock/slowhttptest-docker/blob/master/Dockerfile>
-- Base Image: [phusion/baseimage](https://hub.docker.com/r/phusion/baseimage)
+- Base Image: [debian](https://hub.docker.com/_/debian/)
 
 ## Installation
 
